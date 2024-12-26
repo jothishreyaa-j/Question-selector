@@ -53,6 +53,7 @@ Efficient Resource Management:
 Automating the question selection process saves time for hiring teams, reducing the effort required to manually create and format interview questions.
 
 Applications in Industry:
+
 This tool can be applied in any industry that conducts technical interviews, including:
 
 Tech Companies: For software development or engineering interviews, ensuring questions cover various difficulty levels.
@@ -60,6 +61,7 @@ Consulting Firms: For assessing candidates across different problem-solving and 
 Educational Institutions: To create fair and objective assessments or mock interviews for students.
 
 How to Use:
+
 Clone the repository to your local machine.
 Ensure you have Python installed along with the required libraries (pandas, random, fpdf).
 Place your interview questions dataset (CSV format) in the same directory or modify the file path in the script.
@@ -67,6 +69,7 @@ Run the Python script and input the required total marks when prompted.
 The selected interview questions will be saved in a PDF file, which can be printed or shared.
 
 Dependencies:
+
 Python 3.x
 Pandas: For reading and manipulating CSV files.
 fpdf: For generating PDF files from the selected questions.
